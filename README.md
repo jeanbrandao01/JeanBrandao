@@ -4,14 +4,30 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeanbrandao01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=00bfbf" alt="Jean Brandão github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeanbrandao01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jean Brandão github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbrandao01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&bg_color=000000&color=15e5a6&line=00bfbf&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a>.
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
+  - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/mari4souza">Mari4souza</a>.</div>
+
+</details>
